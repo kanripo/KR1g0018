@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典稽疑
-#+DATE: 2015-09-23 09:41:04
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:19:06.075188
+#+PROPERTY: ID KR1g0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後語
 <pb:KR1g0018_WYG_003-1a>¶
 經典稽疑後語¶
 漢石經遺字者藏洛陽及長安人家葢靈帝熹平四年¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　經典稽疑卷下¶
-
